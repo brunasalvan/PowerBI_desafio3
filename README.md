@@ -1,4 +1,4 @@
-# PowerBI_Desafio3
+# PowerBI_desafio3
 
 Dashboard criado a partir dos conjuntos de dados: Clientes.
 
